@@ -1,0 +1,19 @@
+.navbar-estilo {
+	background-color: #168DCA;
+	height: 80px;
+}
+
+.carousel-item {
+	height: 600px;
+	background-image: url(../img/carrusel01.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.carousel-item--2 {
+	background-image: url(../img/carrusel02.jpg);
+}
+
+.carousel-item--3 {
+	background-image: url(../img/carrusel03.jpg);
+}
