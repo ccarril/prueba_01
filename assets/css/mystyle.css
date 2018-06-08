@@ -17,3 +17,7 @@
 .carousel-item--3 {
 	background-image: url(../img/carrusel03.jpg);
 }
+
+.container-estilo {
+	margin-top: 100px;
+}
